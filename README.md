@@ -40,7 +40,6 @@ Open `index.html` directly in your browser — works fully offline.
 | **Low battery alert** | Visual + log warning at ≤ 10% SoC |
 | **SoH degradation alert** | Log warning when health drops below 70% |
 
-### UI Elements
 - **Analog semicircle gauges** — SoC, Temperature, Voltage, SoH
 - **Live trend charts** — 3 scrolling history charts (Chart.js)
 - **6-function protection status panel** with color indicators
